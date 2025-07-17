@@ -21,12 +21,6 @@ Projects are scored on a numerical scale (0-10) for each criterion:
 - **Impact**: Expected business/value impact (Higher = greater impact).
 - **Size**: Estimated effort/resource requirements (Higher = larger effort).
 
-| Project ID                     | space | project map | as expansion | employee intergreater de intergration | Project 777 | Project IDd | Project vk | site exp | site  |
-|--------------------------------|-------|-------------|--------------|---------------------------------------|-------------|-------------|------------|----------|-------|
-| **Feasibility**                | 5     | 3           | 7            | 6                                     | 3           | 7           | 9          | 6        | 8     |
-| **Impact**                     | 7     | 9           | 6            | 2                                     | 1           | 5           | 0          | 1        | 5     |
-| **Size**                       | 6     | 4           | 3            | 7                                     | 6           | 3           | 4          | 2        | 3     |
-
 ### 🔑 Key Observations
 1. **Highest Impact**: `project map` (Impact = 9).
 2. **Highest Feasibility**: `Project vk` (Feasibility = 9).
